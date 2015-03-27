@@ -18,3 +18,10 @@ You will (Preferably) need:
 - An SDHC card with 8 GB minimum
 - A Mouse (Not the living one. Those and computers do not work well together.)
 - A Github Account
+
+## How To Download
+It's pretty simple.
+
+### 1. Download the repo
+Look at the sidebar. Click the "Download as Zip" Button.
+
