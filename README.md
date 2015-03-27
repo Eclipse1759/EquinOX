@@ -15,6 +15,6 @@ Other goals are to:
 You will (Preferably) need:
 
 - A Rasberry Pi (Model B)
-- A SDHC a card with 8 GB minimum
+- An SDHC card with 8 GB minimum
 - A Mouse (Not the living one. Those and computers do not work well together.)
 - A Github Account
