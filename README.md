@@ -1,8 +1,8 @@
 # EquinOX
-A port of Debian Linux / Raspbian that you can place on an SD card. I'm trying to have it run on Rasberry Pi, but that's still questionable with all of the edits that are to be made.
+A port of Debian Linux / Raspbian that you can place on an SD card. Because this is a port of Raspbian, It's optimized for computers that use ARM chips. However, I'm working on having it run on all computers. It'll obviously be slower, but... That's also something to work on.
 
 # Goal
-I'm trying to have it where you can just copy the contents of the "Core.zip" to the root of the SD card, and select that as your boot up drive. However, Raspbian runs on ARM chips, so I have to re-code the Kernel to have it run on both ARM and Intel. That'll be fun.
+I'm trying to have it where you can just copy the contents of the "Core.zip" to the root of the Drive, and select that as your boot up drive. However, Raspbian runs on ARM chips, so I have to re-code the Kernel to have it run on both ARM and Intel. That'll be fun.
 
 Other goals are to:
 
@@ -11,3 +11,10 @@ Other goals are to:
 - Optimize the GUIs and SMCs for the best user experience possible.
 - Unify the Drives so all apps can read the same trail.
 
+# Prerequisites
+You will (Preferably) need:
+
+- A Rasberry Pi (Model B)
+- A SDHC a card with 8 GB minimum
+- A Mouse (Not the living one. Those and computers do not work well together.)
+- A Github Account
