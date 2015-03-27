@@ -25,3 +25,8 @@ It's pretty simple.
 ### 1. Download the repo
 Look at the sidebar. Click the "Download as Zip" Button.
 
+### 2. Copy the contents of the zip.
+Copy the contents of the zip file to the root of the SD card or Drive you have.
+
+### 3. Boot the computer.
+Go to the menu on your operating system to select the boot drive and select "Raspbian." If you see a command line on your screen or a Rasberry pi logo, then you've done it correctly.
