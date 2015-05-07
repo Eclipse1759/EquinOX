@@ -20,4 +20,4 @@ You will (Preferably) need:
 - A Github Account
 
 ## How To Download
-The operating system isn't available for download yet.
+Updates for EquinOX are released frequently. To stay up to date, please visit [The Releases Page](https://github.com/AugustGhosts/EquinOX/releases). Follow the instructions that are released with each update. Happy alpha testing!
