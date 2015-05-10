@@ -1,6 +1,6 @@
 {
- "description" : "A Debian wheezy port, optimised for the Raspberry Pi",
- "flavour" : "Raspbian",
+ "description" : "A port of Debian Linux / Raspbian that you can place on an SD card.",
+ "flavour" : "EquinOX",
  "imagefolder" : "/mnt/os/Raspbian",
  "keyboard" : "us",
  "language" : "us",
@@ -8,6 +8,6 @@
 "/dev/mmcblk0p5",
 "/dev/mmcblk0p6"
  ],
- "release_date" : "2015-02-16",
+ "release_date" : "2015-05-09",
  "videomode" : 0
 }
