@@ -1,6 +1,5 @@
-# EquinOX
+# EquinOX [![Join the chat at https://gitter.im/AugustGhosts/EquinOX](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/AugustGhosts/EquinOX?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Join the chat at https://gitter.im/AugustGhosts/EquinOX](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/AugustGhosts/EquinOX?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A port of Debian Linux / Raspbian that you can place on an SD card. Because this is a port of Raspbian, It's optimized for computers that use ARM chips. However, I'm working on having it run on all computers. It'll obviously be slower, but... That's also something to work on.
 
 ## Goal
