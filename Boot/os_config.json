@@ -1,6 +1,6 @@
 {
- "description" : "A Debian wheezy port, optimised for the Raspberry Pi",
- "flavour" : "Raspbian",
+ "description" : "EquinOX, an is meting made to revolutionize the way you use your computer. (Still in development.)",
+ "flavour" : "EquinOX",
  "imagefolder" : "/mnt/os/Raspbian",
  "keyboard" : "us",
  "language" : "us",
